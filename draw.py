@@ -1,7 +1,6 @@
 from display import *
 from matrix import *
 
-
 def draw_lines( matrix, screen, color ):
     row1 = matrix[0]
     row2 = matrix[1]
